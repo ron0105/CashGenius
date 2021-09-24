@@ -1,4 +1,4 @@
-# noteify
+# CashGenuis
 
 A new Flutter project.
 
